@@ -1,16 +1,16 @@
 # HRES_Mizo
 Hybrid Renewable Energy Model to provide electricity in remote areas of Mizoram. 
 
-# Introduction
+## Introduction
 This project focuses on developing a Hybrid Micro-Hydro and Solar Photovoltaic system in remote areas of Mizoram, India. It addresses the critical need for electricity in these regions, despite national electrification efforts.
 
-# Background
+## Background
 Despite significant progress in electrifying most villages, several remote areas remain without electricity. The project emphasizes the importance of renewable energy solutions in these regions, particularly in Mizoram, where many tribal communities reside.
 
-# Project Description
+## Project Description
 The project proposes the implementation of a hybrid renewable energy system, combining solar photovoltaic and micro-hydro power plants. This system is designed to leverage the natural resources of Mizoram to provide sustainable and clean energy.
 
-# Methodology
+## Methodology
 The project involved a comprehensive study of geographical locations and natural resources. The methodology included data analysis of the load profile, utility requirements of villages, and planning of the hybrid system's parameters. The project also used software tools like HOMER GRID for simulation and evaluation of the optimal hybrid system configuration.
 
 ## Data Analysis
